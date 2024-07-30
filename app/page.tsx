@@ -1,8 +1,13 @@
+import Header from '@/components/Header'
+import Herosection from '@/components/Herosection'
 import React from 'react'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div className='bg-zinc-800 min-h-screen text-white'>
+      <Header/>
+      <Herosection/>
+    </div>
   )
 }
 
