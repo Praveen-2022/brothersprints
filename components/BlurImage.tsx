@@ -1,4 +1,5 @@
 import BlurFade from "@/components/magicui/blur-fade";
+import Image from "next/image";
 
 const images = Array.from({ length: 6 }, (_, i) => {
   const isLandscape = i % 2 === 0;

@@ -7,7 +7,7 @@ import Link from 'next/link'
 const Header = () => {
     return (
         <nav>
-            <div className='flex justify-between  py-4 items-center mx-12'>
+            <div className='flex justify-between  py-4 items-center'>
                 <div>
                     <Link href="/">
                         <Image
