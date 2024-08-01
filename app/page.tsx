@@ -1,3 +1,5 @@
+import AllProducts from '@/components/AllProducts'
+import Contact from '@/components/Contact'
 import Header from '@/components/Header'
 import Herosection from '@/components/Herosection'
 import NotificationBar from '@/components/NotificationBar'
@@ -9,6 +11,8 @@ const Home = () => {
       <NotificationBar />
       <Header />
       <Herosection />
+      <AllProducts/>
+      <Contact/>
     </div>
   )
 }
