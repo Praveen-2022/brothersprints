@@ -1,4 +1,5 @@
 import AllProducts from '@/components/AllProducts'
+import BulkOrder from '@/components/BulkOrder'
 import Contact from '@/components/Contact'
 import Header from '@/components/Header'
 import Herosection from '@/components/Herosection'
@@ -12,6 +13,7 @@ const Home = () => {
       <Header />
       <Herosection />
       <AllProducts/>
+      <BulkOrder/>
       <Contact/>
     </div>
   )

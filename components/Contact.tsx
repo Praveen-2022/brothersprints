@@ -12,32 +12,32 @@ const cardsData = [
     {
         alt: 'test-2',
         title: 'Bussiness Card',
-        width: 20,
-        height: 20
+        width: 50,
+        height: 50
     },
     {
         alt: 'test-3',
         title: 'Mug Printing',
-        width: 20,
-        height: 20
+        width: 50,
+        height: 50
     },
     {
         alt: 'test-4',
         title: 'Bill Board Print',
-        width: 20,
-        height: 20
+        width: 50,
+        height: 50
     },
     {
         alt: 'test-5',
         title: 'Dress & Bags',
-        width: 20,
-        height: 20
+        width: 50,
+        height: 50
     },
     {
         alt: 'test-6',
         title: "Banner's Printing",
-        width: 20,
-        height: 20
+        width: 50,
+        height: 50
     },
 ];
 
